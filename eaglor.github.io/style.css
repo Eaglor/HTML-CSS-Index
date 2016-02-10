@@ -1,0 +1,50 @@
+p{line-height: 1em;}
+h1, h2, h3, h4{
+    color: antiquewhite;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin: 0 0 .5em 0;
+}
+
+a{
+    color: brown;
+    text-decoration: none;
+}
+    
+    a:hover,
+    a:active{ text-decoration: underline;
+    }
+
+body {
+    font-family: fantasy;
+    font-size: 80%;
+    line-height: 1.2em;
+    width: auto;
+    margin; 0;
+    background: #000000;
+}
+
+#main{margin: 20px;}
+
+#logo{
+    width: 33%;
+    margin-top: 5px;
+    font-family: fantasy;
+    display: inline-block;
+}
+
+#nav{
+    width: 40%;
+    display: inline-block;
+    text-align: left;
+    float: left;
+}
+
+#nav ul{}
+    #nav ul li{
+        display: inline-block;
+        height: 40px;
+}
+ol#recept > li {
+    font-size: 1rem;
+}
